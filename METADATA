@@ -1,6 +1,3 @@
-# *** THIS PACKAGE HAS SPECIAL LICENSING CONDITIONS.  PLEASE
-#     CONSULT THE OWNERS AND opensource-licensing@google.com BEFORE
-#     DEPENDING ON IT IN YOUR PROJECT. ***
 name: "cutivemono"
 description: "The design of Cutive, and this monospace sister family Cutive Mono, is based on a number of classic typewriter typefaces, in particular the faces of IBM's 'Executive,' and the older 'Smith-Premier.' In Cutive these old faces re-emerge as webfonts that are useful for adding character to body texts as well as in larger sizes for headers and display."
 
@@ -15,6 +12,5 @@ third_party {
   }
   version: "1.100"
   last_upgrade_date { year: 2023 month: 3 day: 13 }
-  license_note: "contains OFL fonts"
-  license_type: BY_EXCEPTION_ONLY
+  license_type: NOTICE
 }
