@@ -50,3 +50,11 @@ prebuilt_font {
     name: "CutiveMono.ttf",
     src: "CutiveMono.ttf",
 }
+
+filegroup {
+    name: "CutiveMono",
+    srcs: ["font_config.json"],
+    required: [
+        "CutiveMono.ttf",
+    ],
+}
