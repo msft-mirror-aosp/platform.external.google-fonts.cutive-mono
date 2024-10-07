@@ -1,0 +1,13 @@
+[
+    {
+        "name": "serif-monospace",
+        "fonts": [
+            {
+                "file": "CutiveMono.ttf",
+                "postScriptName": "CutiveMono-Regular",
+                "weight": "400",
+                "style": "normal"
+            }
+        ]
+    }
+]
